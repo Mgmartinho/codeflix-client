@@ -28,5 +28,5 @@ body {
 @layer base{
     body{
       @apply bg-[#141414] text-white; 
-    }
+    } 
 }
